@@ -40,7 +40,8 @@ namespace _2D_List_Demo
             // listObject[y][x]
             //
             // If it helps, you can also read it as
-            // listObjects[column][row]
+            // listObjects[row][column]
+            //
 
 
             Console.WriteLine(listObject[0][0]);
